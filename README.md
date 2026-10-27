@@ -1,5 +1,6 @@
-Name : Niharika NK
-
+## Name: Niharika N K 
+## Project : # Ecommerce Infrastructure Scaling Analysis
+## Batch Code : 302602 ( Skillfyme )
 # Logistics Delivery Risk Intelligence
 
 This project analyzes shipment and logistics risk data to support proactive operational decisions for route planning and delay management.
